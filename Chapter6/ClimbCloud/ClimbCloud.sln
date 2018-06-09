@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbCloud", "ClimbCloud.csproj", "{F0F8951A-ABDA-3438-6B05-E27E61E0D5B6}"
 EndProject
 Global
